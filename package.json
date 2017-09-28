@@ -1,0 +1,19 @@
+{
+  "name": "ultimaker",
+  "version": "0.0.1",
+  "description": "Ultimaker 3D printer API client",
+  "main": "index.js",
+  "bin": {
+    "ulti": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidhq/ultimaker.git"
+  },
+  "author": "davidhq",
+  "license": "ISC",
+  "dependencies": {}
+}
